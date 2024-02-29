@@ -2,15 +2,15 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>G:\motionGraphics\Vertical-Scrolling\Debug\Vertical-Scrolling.exe</FullPath>
+      <FullPath>C:\Users\M6\Desktop\Motion Graphics\Motion-Graphics\vertical-scrolling\Debug\Vertical-Scrolling.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>G:\motionGraphics\Vertical-Scrolling\Vertical-Scrolling\ASSETS\FONTS\ariblk.ttf</FullPath>
+      <FullPath>C:\Users\M6\Desktop\Motion Graphics\Motion-Graphics\vertical-scrolling\Vertical-Scrolling\ASSETS\FONTS\ariblk.ttf</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>G:\motionGraphics\Vertical-Scrolling\Vertical-Scrolling\ASSETS\IMAGES\SFML-LOGO.png</FullPath>
+      <FullPath>C:\Users\M6\Desktop\Motion Graphics\Motion-Graphics\vertical-scrolling\Vertical-Scrolling\ASSETS\IMAGES\SFML-LOGO.png</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />
