@@ -1,0 +1,71 @@
+﻿  Game.cpp
+C:\level-loader\level-editor\level-editor\Game.cpp(142,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(142,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(148,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(148,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(156,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(156,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(162,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(162,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(168,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(168,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(174,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(174,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(189,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(225,115): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\level-loader\level-editor\level-editor\Game.cpp(225,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\level-loader\level-editor\level-editor\Game.cpp(243,123): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\level-loader\level-editor\level-editor\Game.cpp(243,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\level-loader\level-editor\level-editor\Game.cpp(256,123): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\level-loader\level-editor\level-editor\Game.cpp(256,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\level-loader\level-editor\level-editor\Game.cpp(322,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\level-loader\level-editor\level-editor\Game.cpp(322,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  level-editor.vcxproj -> C:\level-loader\level-editor\Debug\level-editor.exe

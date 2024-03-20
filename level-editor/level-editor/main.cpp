@@ -1,4 +1,5 @@
-//Author: Jekaterina Gorska
+//Jekaterina Gorska
+
 #ifdef _DEBUG 
 #pragma comment(lib,"sfml-graphics-d.lib") 
 #pragma comment(lib,"sfml-audio-d.lib") 
@@ -15,10 +16,11 @@
 
 
 #include "Game.h"
+
 int main()
 {
 	Game game;
 	game.run();
 
-	return 1; 
+	return 1; // success
 }
