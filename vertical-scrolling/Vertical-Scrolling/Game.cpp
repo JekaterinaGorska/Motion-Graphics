@@ -107,7 +107,7 @@ void Game::update(sf::Time t_deltaTime)
 	}
 	if (m_gameOver)
 	{
-		//gameOver();
+		
 		return;
 	}
 
@@ -248,7 +248,6 @@ void Game::restart()
 void Game::render()
 {
 	m_window.clear(sf::Color(55, 55, 55));
-	//m_window.clear(sf::Color::Yellow);
 	
 	for (int i = 0; i < amountOfTiles; ++i)
 	{
